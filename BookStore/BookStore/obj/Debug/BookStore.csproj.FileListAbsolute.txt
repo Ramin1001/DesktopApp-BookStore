@@ -1,0 +1,16 @@
+C:\Users\Ramo\source\repos\BookStore\BookStore\bin\Debug\BookStore.exe.config
+C:\Users\Ramo\source\repos\BookStore\BookStore\bin\Debug\BookStore.exe
+C:\Users\Ramo\source\repos\BookStore\BookStore\bin\Debug\BookStore.pdb
+C:\Users\Ramo\source\repos\BookStore\BookStore\obj\Debug\BookStore.csprojAssemblyReference.cache
+C:\Users\Ramo\source\repos\BookStore\BookStore\obj\Debug\BookStore.Forms.AddBookForm.resources
+C:\Users\Ramo\source\repos\BookStore\BookStore\obj\Debug\BookStore.Forms.BookStoreForm.resources
+C:\Users\Ramo\source\repos\BookStore\BookStore\obj\Debug\BookStore.Properties.Resources.resources
+C:\Users\Ramo\source\repos\BookStore\BookStore\obj\Debug\BookStore.csproj.GenerateResource.cache
+C:\Users\Ramo\source\repos\BookStore\BookStore\obj\Debug\BookStore.csproj.CoreCompileInputs.cache
+C:\Users\Ramo\source\repos\BookStore\BookStore\obj\Debug\BookStore.exe
+C:\Users\Ramo\source\repos\BookStore\BookStore\obj\Debug\BookStore.pdb
+C:\Users\Ramo\source\repos\BookStore\BookStore\obj\Debug\BookStore.Form1.resources
+C:\Users\Ramo\source\repos\BookStore\BookStore\obj\Debug\BookStore.Forms.RemoveBookForm.resources
+C:\Users\Ramo\source\repos\BookStore\BookStore\obj\Debug\BookStore.Forms.EditForm.resources
+C:\Users\Ramo\source\repos\BookStore\BookStore\obj\Debug\BookStore.Forms.AddAuthorForm.resources
+C:\Users\Ramo\source\repos\BookStore\BookStore\obj\Debug\BookStore.Forms.RemoveAuthorForm.resources
